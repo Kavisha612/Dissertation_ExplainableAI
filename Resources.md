@@ -38,7 +38,15 @@ Sex based Fairness/ SHAP for Fairness Auditing general papers
 * Biased models have biased explainations wohoo- https://arxiv.org/pdf/2012.10986
 
 
-
-
+Medical data
+* Why use [pulse pressure] (https://pmc.ncbi.nlm.nih.gov/articles/PMC8029839/#:~:text=The%20Framingham%20Heart%20Study%20concluded,of%20developing%20congestive%20heart%20failure.&text=These%20associations%20were%20unrelated%20to,PP%20against%20cardiovascular%E2%80%90related%20mortality.&text=Other%20trials%20have%20demonstrated%20an,mm%20Hg%20increase%20in%20PP.&text=Wide%20PP%20is%20also%20independently,SBP%2C%20DBP%2C%20and%20MAP.
+)
+* Sys and Dia blood pressure ranges : https://www.snodlandsurgery.org.uk/bp-calculator
+* BMI & BSA calc: https://www.nursingcenter.com/blogs-plus/blogs/blogs-post?identifier=Body-Mass-Index-and-Body-Surface-Area-What-s-the-D#/post/Body-Mass-Index-and-Body-Surface-Area-What-s-the-D
+* Mostellar formula better : https://pubmed.ncbi.nlm.nih.gov/16546483/
+* 
+* Why BSA over BMI: 
+Stats and stuff
+* https://medium.com/@agarwal.vishal819/outlier-detection-with-boxplots-1b6757fafa21
 Extra stuff
 * https://neptune.ai/blog/brier-score-and-model-calibration
