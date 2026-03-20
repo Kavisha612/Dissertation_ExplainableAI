@@ -44,6 +44,8 @@ Medical data
 * Sys and Dia blood pressure ranges : https://www.snodlandsurgery.org.uk/bp-calculator
 * BMI & BSA calc: https://www.nursingcenter.com/blogs-plus/blogs/blogs-post?identifier=Body-Mass-Index-and-Body-Surface-Area-What-s-the-D#/post/Body-Mass-Index-and-Body-Surface-Area-What-s-the-D
 * Mostellar formula better : https://pubmed.ncbi.nlm.nih.gov/16546483/
+* Gender differences in coronory heart disease : https://pmc.ncbi.nlm.nih.gov/articles/PMC3018605/
+* BP thresholds different for men and women : https://www.ecrjournal.com/articles/hypertension-women-should-there-be-sex-specific-threshold
 * 
 * Why BSA over BMI: 
 Stats and stuff
