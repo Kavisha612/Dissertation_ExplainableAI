@@ -1,0 +1,6 @@
+threshold,ap_hi_mmhg
+Female clinical threshold (Ji et al.),110.0
+Male clinical threshold (Ji et al.),130.0
+Model effective threshold (SHAP),130.0
+FN women median BP,120.0
+FN women mean BP,117.5
